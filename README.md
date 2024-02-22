@@ -1,6 +1,6 @@
 # PINN_toy_model : PINN model for DE : u_xx = - pi^2 sin(pi x)
 
-A PINN implementation to solve the following differential equation :
+A Physics informed nueral network (PINN) implementation to solve the following differential equation :
 
 $\frac{d^2 u(x)}{dx^2} + \pi^2 \sin(\pi x) = 0 $
 
